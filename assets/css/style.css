@@ -12,7 +12,7 @@
 
 .overflowhiden {
     overflow: hidden;
-}
+}   
 
 .ff_Rubik {
     font-family: 'Rubik', sans-serif;
@@ -37,8 +37,6 @@
     --color-grey: #4F5665;
     --color-lightgrey: #FBFBFB;
     --color-pink: #F53855;
-
-
 }
 
 /* color class */
@@ -129,6 +127,11 @@ nav ul li a:hover {
     padding: 10px 40px;
 }
 
+.sign_up_btn:hover {
+    background-color: #F53838;
+    color: #FFFFFF !important;
+}
+
 .nav_btn:hover {
     background: #F53838;
     border: 1px solid #F53838;
@@ -167,6 +170,12 @@ nav ul li a:hover {
     box-shadow: -1px 18px 30px -12px #f53838b9;
 }
 
+.get_started_btn:hover {
+    background-color: #FFFFFF;
+    color: black !important;
+
+}
+
 .hero_btn:hover {
     background: transparent;
     border: 1px solid #a14553;
@@ -181,6 +190,10 @@ nav ul li a:hover {
     border-radius: 10px;
     padding: 80px;
     height: 760px;
+}
+
+.flower_box:hover {
+    border: 2px solid #F53838;
 }
 
 .Choose_box:hover {
