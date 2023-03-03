@@ -12,7 +12,7 @@
 
 .overflowhiden {
     overflow: hidden;
-}   
+}
 
 .ff_Rubik {
     font-family: 'Rubik', sans-serif;
@@ -140,28 +140,6 @@ nav ul li a:hover {
     transition: all 0.5s ease-in-out;
 }
 
-.hero_section_box {
-    background: #FFFFFF;
-    border-radius: 10px;
-    padding: 50px;
-    box-shadow: 0px 50px 21px #0d10250d;
-}
-
-.hero_box:hover {
-    background-color: #FFFFFF;
-}
-
-.hero_box img {
-    height: 60px;
-    width: 60px;
-}
-
-.hr_1 {
-    border: 2px solid #EEEFF2;
-    height: 125.57px;
-    width: 0;
-}
-
 .get_started_btn {
     background: #F53838;
     border: 1px solid #F53838;
@@ -200,6 +178,28 @@ nav ul li a:hover {
     border: 2px solid #F53838;
 }
 
+.hero_section_box {
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding: 50px;
+    box-shadow: 0px 50px 21px #0d10250d;
+}
+
+.hero_box:hover {
+    background-color: #FFFFFF;
+}
+
+.hero_box img {
+    height: 60px;
+    width: 60px;
+}
+
+.hr_1 {
+    border: 2px solid #EEEFF2;
+    height: 125.57px;
+    width: 0;
+}
+
 .Choose_box_rightclick_img {
     height: 9px;
     width: 13px;
@@ -217,7 +217,7 @@ nav ul li a:hover {
     box-shadow: 0px 22px 34px -9px rgba(245, 56, 56, 0.35);
 }
 
-.Trusted_box {
+._box {
     background: #FFFFFF;
     border: 2px solid #DDDDDD;
     border-radius: 10px;
@@ -227,7 +227,7 @@ nav ul li a:hover {
     margin-right: 20px;
 }
 
-.Trusted_box:hover {
+._box:hover {
     border: 2px solid #F53838;
 }
 
